@@ -30,11 +30,11 @@ public class this_demo0 {
 	}
 
 	public static void main(String[] args) {
-		// somme my_set = new somme(10, 15);
-		// somme my_set_0 = new somme(30);
-		// somme my_set_1 = new somme();
-		// my_set.my_method();
-		demo_method(10, 20, 30, 40);
+		somme my_set = new somme(10, 15);
+		somme my_set_0 = new somme(30);
+		somme my_set_1 = new somme();
+		my_set.my_method();
+		// demo_method(10, ,,200);
 	}
 
 }
